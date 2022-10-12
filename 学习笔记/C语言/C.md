@@ -57,7 +57,6 @@ typeName * point_name = new typeName;
 delete ps;
 ```
 
-
 > 注意:
 >
 > - 一定要配对地使用new和 delete，否则会发生内存泄漏(memory leak) ;
